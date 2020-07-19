@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently studying in zhengzhou university 
+- 📫 How to reach me: Email:walkerboudless@gmail.com
+
 <!--
 **Avery2019/Avery2019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
