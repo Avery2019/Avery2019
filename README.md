@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently studying in zhengzhou university 
+- 🌱 I’m currently learning  C++ / java / algorithm / data structure 
 - 📫 How to reach me: Email:walkerboudless@gmail.com
 
 <!--
